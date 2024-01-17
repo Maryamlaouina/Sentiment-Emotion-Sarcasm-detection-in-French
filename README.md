@@ -12,3 +12,6 @@ Developing a user-friendly interface.
 so in emotions detection we worked with several model such as LSTM, logistic regression , SVC and so on check out the notebook .
 in sarcasm we worked with Bert and DistilBert.
 and sentiment we worked by Bert and logistic regrassion ...
+
+![Uploading image.png…]()
+
