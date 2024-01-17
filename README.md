@@ -13,5 +13,6 @@ so in emotions detection we worked with several model such as LSTM, logistic reg
 in sarcasm we worked with Bert and DistilBert.
 and sentiment we worked by Bert and logistic regrassion ...
 
-![Uploading image.png…]()
+<img width="950" alt="image" src="https://github.com/Maryamlaouina/Sentiment-Emotion-Sarcasm-detection-in-French/assets/103520731/a406ce91-14ca-4864-896c-a68c902b3939">
+
 
